@@ -1,0 +1,10 @@
+server:
+  production: false
+  server_address: 0.0.0.0:5000
+  domain_name: 127.0.0.1:5000
+db:
+  db_username: 
+  db_password: 
+  db_database: 
+
+jwt_secret: 
